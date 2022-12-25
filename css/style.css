@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.banner-text {
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.feature-card {
+    transition: all ease 0.5s;
+}
+
+.feature-card:hover {
+    /* border: 1px solid red; */
+    margin-top: -20px;
+}
+
+.feature-card2{
+    transition: all ease 0.8s;
+}
+
+.feature-card2:hover {
+    text-align: right;
+}
